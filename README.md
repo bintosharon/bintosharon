@@ -1,4 +1,4 @@
-- 👋 Hi,
+Hi,
 -  I’m @bintosharon
 - 👀 I’m interested in Devops and Cloud
 - 🌱 I’m currently learning Kubernetes, Ansible, other devops tools as well, 
