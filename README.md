@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @bintosharon
+- 👋 Hi,
+-  I’m @bintosharon
 - 👀 I’m interested in Devops and Cloud
-- 🌱 I’m currently learning Kubernetes, Ansible
-- 💞️ I’m looking to collaborate on, anything which I can
+- 🌱 I’m currently learning Kubernetes, Ansible, other devops tools as well, 
+- 💞️ I’m looking to collaborate on, devops and cloud related projects.
 - 📫 How to reach me : binto sharon on linkedin
 
 <!---
